@@ -15,6 +15,13 @@
     </head>
     <body>
 
+<div class="alert alert-success" role="alert">
+  <strong>Well done!</strong> You successfully read this important alert message.
+</div>
+<div class="alert alert-info" role="alert">
+  <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+</div>
+
         <div id="main" class="container">
             <div class="row">
                 <div class="col-sm-4">
