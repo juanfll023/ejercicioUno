@@ -15,6 +15,12 @@
     </head>
     <body>
 
+<div class="progress">
+  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+    60%
+  </div>
+</div>
+
 <div class="alert alert-success" role="alert">
   <strong>Well done!</strong> You successfully read this important alert message.
 </div>
